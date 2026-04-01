@@ -23,3 +23,6 @@ pnpm-debug.log*
 # build artifacts
 coverage/
 *.tsbuildinfo
+
+# supabase temp
+supabase/.temp/
